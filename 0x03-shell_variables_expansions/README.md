@@ -1,0 +1,1 @@
+Creating some scripts about init files, variables and expansions on shell
